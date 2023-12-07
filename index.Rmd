@@ -1,9 +1,25 @@
 ---
 title: "Yi Xie"
 ---
+```{r include=FALSE}
+library(RColorBrewer)
+#display.brewer.all()  # To display all palettes
+#brewer.pal(9, "Blues")  # To use a specific palette
+```
 
-Hello, Website!
 
+
+<span style="color: #6BAED6; font-size: 18px;">As a 4th-year Honours student in Economics at Saint Mary's University, Halifax, my academic journey began at Ningbo University, China, from where I transferred to Sobey School of Business. My profound interest in Economics, especially its intricate relationship with causal data analytics, has fueled my ambition to delve deeper into advanced data analytics, with a specific focus on Machine Learning. This unique blend of international experience and specialized academic pursuit positions me uniquely in the field.</span>
+
+  
+  - Completed ECON 4848 "Introduction to Applied Machine Learning with R" as a top student.
+  - Working in a dynamic team of researchers as a principle research assistant on back-end data engineering applications. We are dedicated to demystifying the real estate landscape of Nova Scotia through data-driven insights. Our mission is to empower users with accessible, accurate, historical, and comprehensive information by creating a Shiny App.
+  - Teaching assistant in Advance Statistics ECON 3303 holding one-hour tutorials with Stata twice every week for 21 students
+  - Teaching assistant in Econometrics ECON 4303 holding one-hour tutorials with R/Python twice every week in Winter 2024
+  - Teaching assistant responsible for the lab sessions of MBAN 5500 "Machine Learning and Artificial Intelligence" in Winter 2024.
+  - Copyeditor for the R codes in the forthcoming book, "Machine Learning for Causal Analysis" (CRC), by Dr. Yigit Aydede and Dr. Mutlu Yuksel. 
+  
+  
 For more information about simple R Markdown websites, please read the documentation at https://bookdown.org/yihui/rmarkdown/rmarkdown-site.html.
 
 Please also note that simple R Markdown sites are _not_ based on **blogdown**. They are probably good for websites with only a few Rmd documents. For larger-scale and more sophisticated websites (such as blogs), you may want to use **blogdown** instead: https://github.com/rstudio/blogdown.
