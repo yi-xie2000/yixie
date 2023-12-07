@@ -6,4 +6,6 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+    - text: "Shiny"
+      href: Shiny.html
 output_dir: docs
