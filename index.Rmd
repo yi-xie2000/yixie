@@ -40,7 +40,7 @@ library(RColorBrewer)
     <li>Teaching assistant in Advance Statistics ECON 3303 holding one-hour tutorials with Stata twice every week for 21 students.</li>
     <li>Teaching assistant in Econometrics ECON 4303 holding one-hour tutorials with R/Python twice every week in Winter 2024.</li>
     <li>Teaching assistant responsible for the lab sessions of <a href="https://www.smu.ca/mban/index.html" target="_blank" style="color: #2171B5; text-decoration: none;">MBAN 5500 "Machine Learning and Artificial Intelligence</a>" in Winter 2024.</li>
-    <li>Copyeditor for the R codes in the forthcoming book, "Machine Learning for Causal Analysis" (CRC), by Dr. Yigit Aydede and Dr. Mutlu Yuksel.</li>
+    <li>Copyeditor for the R codes in the forthcoming book, "Machine Learning for Causal Analysis" (CRC), by <a href="https://yaydede.github.io" target="_blank" style="color: #2171B5; text-decoration: none;">Dr. Yigit Aydede</a> and Dr. Mutlu Yuksel.</li>
   </ul>
   
   <h2 style="font-size: 22px; color: #2171B5;font-weight: bold; margin-top: 20px; border-bottom: 1px solid #F0F0F0; padding-bottom: 5px;">Achievements, Scholarships, and Awards</h2>
