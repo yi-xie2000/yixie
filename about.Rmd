@@ -12,7 +12,7 @@ title: ""
   </p>
   <p style="font-size: 15px;">
     <strong>Email:</strong><br> <a href="mailto:yi.xie2000@gmail.com" style="color: #2171B5; text-decoration: none;">yi.xie2000@gmail.com</a><br>
-    <strong>GitHub:</strong><br> <a href="https://yi-xie2000.github.io/yixie/" target="_blank" style="color: #2171B5; text-decoration: none;">yi-xie2000.github</a><br>
+    <strong>GitHub:</strong><br> <a href="https://github.com/yi-xie2000" target="_blank" style="color: #2171B5; text-decoration: none;">yi-xie2000.github</a><br>
     <strong>Location:</strong><br> Halifax, Canada</a><br>
   </p>
   </div>
