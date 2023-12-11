@@ -34,7 +34,7 @@ library(RColorBrewer)
   </p>
 
   <h2 style="font-size: 22px; color: #2171B5;font-weight: bold; margin-top: 20px; border-bottom: 1px solid #F0F0F0; padding-bottom: 5px;">Highlights</h2>
-  <ul style="font-size: 18px; color: #737373;">
+  <ul style="font-size: 20px; color: #737373;">
     <li>Completed ECON 4848 "<a href="https://yaydede.github.io/Toolbox/" target="_blank" style="color: #2171B5; text-decoration: none;">Introduction to Applied Machine Learning with R</a>" as a top student.</li>
     <li>Working in a dynamic team of researchers as a principle research assistant on back-end data engineering applications. We are dedicated to demystifying the real estate landscape of Nova Scotia through data-driven insights. Our mission is to empower users with accessible, accurate, historical, and comprehensive information by creating a Shiny App.</li>
     <li>Teaching assistant in Advance Statistics ECON 3303 holding one-hour tutorials with Stata twice every week for 21 students.</li>
@@ -44,7 +44,7 @@ library(RColorBrewer)
   </ul>
   
   <h2 style="font-size: 22px; color: #2171B5;font-weight: bold; margin-top: 20px; border-bottom: 1px solid #F0F0F0; padding-bottom: 5px;">Achievements, Scholarships, and Awards</h2>
-  <ul style="font-size: 18px; color: #737373;">
+  <ul style="font-size: 20px; color: #737373;">
     <li>Achieved a near-perfect GPA of 4.29/4.30 in Bachelor of Commerce, Honours Economics.</li>
     <li>Completed Bachelor of Management through the Business Administration - Sino-Canadian Credit Transfer Program with an outstanding average score of 90.49/100, securing 1st rank in a class of 34.</li>
     <li>Recipient of The Social Sciences & Humanities Research Council Undergraduate Summer Research Award, 2022</li>
