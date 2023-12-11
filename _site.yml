@@ -1,10 +1,10 @@
 name: "Yi Xie"
 navbar:
-  title: "My Website"
+  title: "Yi Xie"
   left:
     - text: "Home"
       href: index.html
-    - text: "About"
+    - text: "Research"
       href: about.html
     - text: "Shiny"
       href: Shiny.html
