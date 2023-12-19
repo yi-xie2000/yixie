@@ -29,29 +29,29 @@ library(RColorBrewer)
     About Me
 </h2>
   <p style="font-size: 18px;">
-    I am Yi, a 4th-year Honours student in Economics at <a href="https://www.smu.ca/" target="_blank" style="color: #2171B5; text-decoration: underline;">Saint Mary's University</a>, Halifax. My academic journey began at <a href="https://www.nbu.edu.cn" target="_blank" style="color: #2171B5; text-decoration: underline;">Ningbo University</a>, China, from where I transferred to Sobey School of Business.<br><br>
-    My profound interest in Economics, especially its intricate relationship with causal data analytics, has fueled my ambition to delve deeper into advanced data analytics, with a specific focus on Machine Learning. This unique blend of international experience and specialized academic pursuit positions me uniquely in the field.
+    I am <strong>Yi</strong>, a 4th-year <strong>Honours</strong> student in Economics at <a href="https://www.smu.ca/" target="_blank" style="color: #2171B5; text-decoration: underline;">Saint Mary's University</a>, Halifax. My academic journey began at <a href="https://www.nbu.edu.cn" target="_blank" style="color: #2171B5; text-decoration: underline;">Ningbo University</a>, China, from where I transferred to Sobey School of Business.<br><br>
+    My profound interest in <strong>Economics</strong>, especially its intricate relationship with causal data analytics, has fueled my ambition to delve deeper into advanced data analytics, with a specific focus on <strong>Machine Learning</strong>. This unique blend of international experience and specialized academic pursuit positions me uniquely in the field.
   </p>
 
   <h2 style="font-size: 20px; color: #2171B5;font-weight: bold; margin-top: 20px; border-bottom: 1px solid #F0F0F0; padding-bottom: 5px;">Highlights</h2>
   <ul style="font-size: 18px; color: #737373;">
-    <li>Completed ECON 4848 "<a href="https://yaydede.github.io/Toolbox/" target="_blank" style="color: #2171B5; text-decoration: underline;">Introduction to Applied Machine Learning with R</a>" as a top student.</li>
-    <li>Working in a dynamic team of researchers as a principle research assistant on back-end data engineering applications. We are dedicated to demystifying the real estate landscape of Nova Scotia through data-driven insights. Our mission is to empower users with accessible, accurate, historical, and comprehensive information by creating a Shiny App.</li>
-    <li>Teaching assistant in Advance Statistics ECON 3303 holding one-hour tutorials with Stata twice every week for 21 students.</li>
-    <li>Teaching assistant in Econometrics ECON 4303 holding one-hour tutorials with R/Python twice every week in Winter 2024.</li>
+    <li>Working in a dynamic team of researchers as a principal research assistant on back-end data engineering applications. We are dedicated to demystifying the real estate landscape of Nova Scotia through data-driven insights. Our mission is to empower users with accessible, accurate, historical, and comprehensive information by creating a Shiny App. App available for review at <a href=" https://jzmtko-yigit-aydede.shinyapps.io/NPI_v1/" target="_blank" style="color: #2171B5; text-decoration: underline;">Nova Scotia Property Insights Platform</a></li>
+     <li>Completed ECON 4838 "<a href="https://yaydede.github.io/Toolbox/" target="_blank" style="color: #2171B5; text-decoration: underline;">Introduction to Applied Machine Learning with R</a>" as a top student.</li>
+    <li>Teaching assistant in ECON 3303 Advance Statistics holding one-hour tutorials with Stata twice every week for 21 students.</li>
+    <li>Teaching assistant in ECON 4303 Econometrics holding one-hour tutorials with R/Python twice every week in Winter 2024.</li>
     <li>Teaching assistant responsible for the lab sessions of <a href="https://www.smu.ca/mban/index.html" target="_blank" style="color: #2171B5; text-decoration: underline;">MBAN 5500 "Machine Learning and Artificial Intelligence</a>" in Winter 2024.</li>
     <li>Copyeditor for the R codes in the forthcoming book, "Machine Learning for Causal Analysis" (CRC), by <a href="https://yaydede.github.io" target="_blank" style="color: #2171B5; text-decoration: underline;">Dr. Yigit Aydede</a> and Dr. Mutlu Yuksel.</li>
   </ul>
   
   <h2 style="font-size: 20px; color: #2171B5;font-weight: bold; margin-top: 20px; border-bottom: 1px solid #F0F0F0; padding-bottom: 5px;">Achievements, Scholarships, and Awards</h2>
   <ul style="font-size: 18px; color: #737373;">
-    <li>Achieved a near-perfect GPA of 4.29/4.30 in Bachelor of Commerce, Honours Economics.</li>
-    <li>Completed Bachelor of Management through the Business Administration - Sino-Canadian Credit Transfer Program with an outstanding average score of 90.49/100, securing 1st rank in a class of 34.</li>
-    <li>Recipient of The Social Sciences & Humanities Research Council Undergraduate Summer Research Award, 2022</li>
-    <li>Consistently made the Dean’s List from 2021 to 2023.</li>
-    <li>Honored with the Academic Achievement Award for two consecutive years (2021-2023).</li>
-    <li>Earned the prestigious Zhejiang Provincial Government Scholarship for the academic year 2019-2020.</li>
-    <li>Received the Special (Top) Prize Scholarship of Ningbo University for the year 2020-2021.</li>
+    <li>Achieved a near-perfect GPA of <strong>4.29/4.30</strong> in Bachelor of Commerce, Honours Economics.</li>
+    <li>Completed Bachelor of Management through the Business Administration - Sino-Canadian Credit Transfer Program with an outstanding average score of <strong>90.49/100</strong>, securing <strong>1st</strong> rank in a class of 34.</li>
+    <li>Recipient of The Social Sciences & Humanities Research Council (<strong>SSHRC</strong>) Undergraduate Summer <strong>Research Award</strong>, 2022</li>
+    <li>Consistently made the <strong>Dean’s List</strong> from 2021 to 2023.</li>
+    <li>Honored with the <strong>Academic Achievement Award</strong> for two consecutive years (2021-2023).</li>
+    <li>Earned the prestigious <strong>Zhejiang Provincial Government Scholarship</strong> for the academic year 2019-2020.</li>
+    <li>Received the <strong>Special (Top) Prize Scholarship of Ningbo University</strong> for the year 2020-2021.</li>
   </ul>
   </div>
 
