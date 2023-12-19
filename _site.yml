@@ -4,8 +4,8 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Research"
-      href: about.html
     - text: "Shiny"
       href: Shiny.html
+    - text: "Research"
+      href: about.html
 output_dir: docs

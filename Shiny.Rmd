@@ -1,4 +1,91 @@
 ---
-title: "Comming Soon..."
+title: ""
 output: html_document
 ---
+<!-- Add a container for the entire page content -->
+<div style="font-family: 'Georgia', serif; color: #737373; max-width: 100%; display: flex;">
+
+  <!-- Sidebar content -->
+  <div style="font-family: 'Georgia', serif; color: #737373; margin-right: 80px; margin-top: 30px; width: 20%;">
+  <img src="Picture1.jpg" alt="Yi Xie" style="width: 100%; border-radius: 50%; border: 3px solid #F0F0F0; margin-bottom: 10px;"/>
+    <p style="font-family: 'Georgia', serif; color: #737373; text-align: center;font-size: 22px">
+    <strong>Yi Xie</strong><br>
+  </p>
+  <p style="font-size: 15px;">
+    <strong>Email:</strong><br> <a href="mailto:yi.xie2000@gmail.com" style="color: #2171B5; text-decoration: none;">yi.xie2000@gmail.com</a><br>
+    <strong>GitHub:</strong><br> <a href="https://github.com/yi-xie2000" target="_blank" style="color: #2171B5; text-decoration: none;">yi-xie2000.github</a><br>
+    <strong>Location:</strong><br> Halifax, Canada</a><br>
+  </p>
+  </div>
+  
+  <!-- Main content -->
+  <div style="font-family: 'Georgia', serif; color: #737373; max-width: 80%; margin: auto;">
+
+  <h2 style="font-size: 20px; color: #2171B5; font-weight: bold; margin-bottom: 10px; border-bottom: 1px solid #F0F0F0; padding-bottom: 5px;">
+    Overview: Nova Scotia Property Insights Platform
+</h2>
+<p style="font-size: 18px;">
+I am excited to present the project I'm currently working on: the <a href=" https://jzmtko-yigit-aydede.shinyapps.io/NPI_v1/" target="_blank" style="color: #2171B5; text-decoration: underline;">Nova Scotia Property Insights Platform</a>. This user-friendly and complimentary Shiny App provides a comprehensive overview of property transactions, trends, and market dynamics across Nova Scotia, offering valuable insights into the real estate landscape.
+</p>
+  <ul style="font-size: 18px; color: #737373;">
+  
+<li><strong>Secure and Detailed:</strong>
+    The platform securely handles extensive data, providing granular insights into neighborhoods, property values, and demographics.
+
+<li><strong>Accessible to All:</strong> 
+    Designed for everyone from home-buyers to researchers, it simplifies understanding the real estate market in Nova Scotia.
+
+<li><strong>Expert-Driven Development:</strong> 
+    As part of the Saint Mary's University team, we've combined analytics and academic knowledge to create this innovative tool.
+
+<li><strong>Explore with Ease:</strong> 
+    Dive into Nova Scotia's property market with this platform, your go-to resource for clear and detailed real estate insights.
+  </ul>
+  
+  <h2 style="font-size: 20px; color: #2171B5; font-weight: bold; margin-bottom: 10px; border-bottom: 1px solid #F0F0F0; padding-bottom: 5px;">
+    Behind the Scenes: My Role in the Platform
+</h2>
+
+<p style="font-size: 18px;">
+As the principal research assistant and data engineer on the team, I am actively contributing in the following areas: 
+</p>
+
+  <ul style="font-size: 18px; color: #737373;">
+<li><strong>Data Cleaning and Merging</strong><br>
+I leverage my proficiency in R and Python to adeptly merge complex administrative files. These files are rich with intricate details on property sales and characteristics, forming the backbone of our data analysis.
+
+<li><strong>Data Visualization and Integration</strong><br>
+I have crafted specialized functions for data visualization, transforming raw data into clear, understandable formats. My expertise extends to using SQL for efficient data selection and merging, ensuring seamless integration and analysis.
+
+<li><strong>Ongoing Contributions</strong><br>
+Currently, I'm focused on integrating the 2021 Canadian Census population data, a significant step in enhancing our platform's depth. Additionally, I'm spearheading the implementation of APIs for real-time data updates. These initiatives are crucial in evolving the Nova Scotia Property Insights Platform, keeping it relevant and insightful.
+</ul>
+
+ <h2 style="font-size: 20px; color: #2171B5; font-weight: bold; margin-bottom: 10px; border-bottom: 1px solid #F0F0F0; padding-bottom: 5px;">
+    Inside Look: The Design of the Platform
+</h2>
+
+  <ul style="font-size: 18px; color: #737373;">
+  
+<li><strong>Home Page</strong><br>
+<img src="Home.jpg" alt="Home" style="width: 100%; border: 3px solid #F0F0F0; margin-bottom: 10px;"/>
+
+<li><strong>Property Look-Up Page</strong><br>
+<img src="PropertyLook-Up.jpg" alt="Property Look-Up" style="width: 100%; border: 3px solid #F0F0F0; margin-bottom: 10px;"/>
+
+<li><strong>Sales Plots Page</strong><br>
+<img src="SalesPlots.jpg" alt="Sales Plots" style="width: 100%; border: 3px solid #F0F0F0; margin-bottom: 10px;"/>
+
+<li><strong>Sales List Page</strong><br>
+<img src="SalesList.jpg" alt="Sales List" style="width: 100%; border: 3px solid #F0F0F0; margin-bottom: 10px;"/>
+
+<li><strong>Sales Map Page</strong><br>
+<img src="SaleMap.jpg" alt="Sales Map" style="width: 100%; border: 3px solid #F0F0F0; margin-bottom: 10px;"/>
+
+<li><strong>About Page</strong><br>
+<img src="About.jpg" alt="About" style="width: 100%; border: 3px solid #F0F0F0; margin-bottom: 10px;"/>
+
+</ul>
+  </div>
+
+</div>

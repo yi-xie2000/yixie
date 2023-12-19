@@ -24,21 +24,21 @@ title: ""
     <li>Developed tools and codes for processing and analyzing of large volumes of sensitive property data;</li>
     <li>Designed an advanced back-end system for real-time and historical data analysis;</li>
     <li>Designed a user-friendly interface for accessing detailed property reports, transaction metrics, and neighborhood analysis;</li>
-    <li>Worked under the guidance of <a href="https://yaydede.github.io" target="_blank" style="color: #2171B5; text-decoration: none;">Dr. Aydede</a>, the principal investigator of the project.</li>
+    <li>Worked under the guidance of <a href="https://yaydede.github.io" target="_blank" style="color: #2171B5; text-decoration: underline;">Dr. Aydede</a>, the principal investigator of the project.</li>
   </ul>
   
   <h2 style="font-size: 20px; color: #2171B5;font-weight: bold; margin-top: 20px; border-bottom: 1px solid #F0F0F0; padding-bottom: 5px;">Sex Differences in Global Chess Performance (Honour Thesis)</h2>
   <ul style="font-size: 18px; color: #737373;">
     <li>Built upon Angel Blanch's research to globally analyze sex differences in chess, emphasizing age and practice;</li>
     <li>Extended the study geographically and over time, including players with Elo ratings above 1000 in international FIDE tournaments. Aimed to determine if Blanch's findings are consistent across different cultures and extended periods;</li>
-    <li>Supervised by <a href="https://ideas.repec.org/e/pdi151.html" target="_blank" style="color: #2171B5; text-decoration: none;">Dr. Dilmagani</a> (SMU), contributing to the understanding of sex roles in chess expertise.</li>
+    <li>Supervised by <a href="https://ideas.repec.org/e/pdi151.html" target="_blank" style="color: #2171B5; text-decoration: underline;">Dr. Dilmagani</a> (SMU), contributing to the understanding of sex roles in chess expertise.</li>
   </ul>
   
   <h2 style="font-size: 20px; color: #2171B5;font-weight: bold; margin-top: 20px; border-bottom: 1px solid #F0F0F0; padding-bottom: 5px;">Accounting Academic Research Projects</h2>
   <ul style="font-size: 18px; color: #737373;">
     <li>Debugged and tested Python programs to execute complex data processing procedures;</li>
     <li>Collected, cleaned, and analyzed data from CAPITAL IQ;</li>
-    <li>Collaborated with <a href="https://www.smu.ca/research/profiles/faculty/Hlaing26.html" target="_blank" style="color: #2171B5; text-decoration: none;">Dr. Hlaing</a> on the project.</li>
+    <li>Collaborated with <a href="https://www.smu.ca/research/profiles/faculty/Hlaing26.html" target="_blank" style="color: #2171B5; text-decoration: underline;">Dr. Hlaing</a> on the project.</li>
   </ul>
 
 </div>  
