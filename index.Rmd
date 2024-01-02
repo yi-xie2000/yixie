@@ -46,8 +46,8 @@ library(RColorBrewer)
   <h2 style="font-size: 20px; color: #2171B5;font-weight: bold; margin-top: 20px; border-bottom: 1px solid #F0F0F0; padding-bottom: 5px;">Achievements, Scholarships, and Awards</h2>
   <ul style="font-size: 18px; color: #737373;">
     <li>Achieved a near-perfect GPA of <strong>4.29/4.30</strong> in Bachelor of Commerce, Honours Economics.</li>
-    <li>Completed Bachelor of Management through the Business Administration - Sino-Canadian Credit Transfer Program with an outstanding average score of <strong>90.49/100</strong>, securing <strong>1st</strong> rank in a class of 34.</li>
-    <li>Recipient of The Social Sciences & Humanities Research Council (<strong>SSHRC</strong>) Undergraduate Summer <strong>Research Award</strong>, 2022</li>
+    <li>Completed Bachelor of Management through the Business Administration - Sino-Canadian Credit Transfer Program with an outstanding average score of <strong>90.49/100</strong>.</li>
+    <li>Recipient of The Social Sciences & Humanities Research Council (<strong>SSHRC</strong>) Undergraduate Summer <strong>Research Award</strong>, 2022.</li>
     <li>Consistently made the <strong>Dean’s List</strong> from 2021 to 2023.</li>
     <li>Honored with the <strong>Academic Achievement Award</strong> for two consecutive years (2021-2023).</li>
     <li>Earned the prestigious <strong>Zhejiang Provincial Government Scholarship</strong> for the academic year 2019-2020.</li>
