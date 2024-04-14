@@ -16,6 +16,7 @@ library(RColorBrewer)
     <strong>Yi Xie</strong><br>
   </p>
   <p style="font-size: 15px;">
+    <strong>LinkedIn:</strong><br> <a href="https://www.linkedin.com/in/yi-xie-21043a21b/" style="color: #2171B5; text-decoration: none;">Yi Xie</a><br>
     <strong>Email:</strong><br> <a href="mailto:yi.xie2000@gmail.com" style="color: #2171B5; text-decoration: none;">yi.xie2000@gmail.com</a><br>
     <strong>GitHub:</strong><br> <a href="https://github.com/yi-xie2000" target="_blank" style="color: #2171B5; text-decoration: none;">yi-xie2000.github</a><br>
     <strong>Location:</strong><br> Halifax, Canada</a><br>
@@ -35,7 +36,7 @@ library(RColorBrewer)
 
   <h2 style="font-size: 20px; color: #2171B5;font-weight: bold; margin-top: 20px; border-bottom: 1px solid #F0F0F0; padding-bottom: 5px;">Highlights</h2>
   <ul style="font-size: 18px; color: #737373;">
-    <li>Working in a dynamic team of researchers as a principal research assistant on back-end data engineering applications. We are dedicated to demystifying the real estate landscape of Nova Scotia through data-driven insights. Our mission is to empower users with accessible, accurate, historical, and comprehensive information by creating a Shiny App. App available for review at <a href=" https://jzmtko-yigit-aydede.shinyapps.io/Shiny2/" target="_blank" style="color: #2171B5; text-decoration: underline;">Nova Scotia Property Insights Platform</a></li>
+    <li>Working in a dynamic team of researchers as a principal research assistant on back-end data engineering applications. We are dedicated to demystifying the real estate landscape of Nova Scotia through data-driven insights. Our mission is to empower users with accessible, accurate, historical, and comprehensive information by creating a Shiny App. App available for review at <a href=" https://jzmtko-yigit-aydede.shinyapps.io/Shiny2/" target="_blank" style="color: #2171B5; text-decoration: underline;">Nova Scotia Property Insights</a></li>
      <li>Completed ECON 4838 "<a href="https://yaydede.github.io/Toolbox/" target="_blank" style="color: #2171B5; text-decoration: underline;">Introduction to Applied Machine Learning with R</a>" as a top student.</li>
     <li>Teaching assistant in ECON 3303 Advance Statistics holding one-hour tutorials with Stata twice every week for 21 students.</li>
     <li>Teaching assistant in ECON 4303 Econometrics holding one-hour tutorials with R/Python twice every week in Winter 2024.</li>
