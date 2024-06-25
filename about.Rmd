@@ -7,14 +7,14 @@ title: ""
   <!-- Sidebar content -->
   <div style="font-family: 'Georgia', serif; color: #737373; margin-right: 80px; margin-top: 30px; width: 20%;">
   <img src="Picture1.jpg" alt="Yi Xie" style="width: 100%; border-radius: 50%; border: 3px solid #F0F0F0; margin-bottom: 10px;"/>
-    <p style="font-family: 'Georgia', serif; color: #737373; text-align: center;font-size: 22px">
-    <strong>Yi Xie</strong><br>
+  <p style="font-family: 'Georgia', serif; color: #737373; text-align: center;font-size: 22px">
+  <strong>Yi Xie</strong><br>
   </p>
   <p style="font-size: 15px;">
-    <strong>LinkedIn:</strong><br> <a href="https://www.linkedin.com/in/yi-xie-21043a21b/" style="color: #2171B5; text-decoration: none;">Yi Xie</a><br>
-    <strong>Email:</strong><br> <a href="mailto:yi.xie2000@gmail.com" style="color: #2171B5; text-decoration: none;">yi.xie2000@gmail.com</a><br>
-    <strong>GitHub:</strong><br> <a href="https://github.com/yi-xie2000" target="_blank" style="color: #2171B5; text-decoration: none;">yi-xie2000.github</a><br>
-    <strong>Location:</strong><br> Halifax, Canada</a><br>
+  <strong>LinkedIn:</strong><br> <a href="https://www.linkedin.com/in/yixie2000/" style="color: #2171B5; text-decoration: none;">Yi Xie</a><br>
+  <strong>Email:</strong><br> <a href="mailto:yi.xie2000@gmail.com" style="color: #2171B5; text-decoration: none;">yi.xie2000@gmail.com</a><br>
+  <strong>GitHub:</strong><br> <a href="https://github.com/yi-xie2000" target="_blank" style="color: #2171B5; text-decoration: none;">yi-xie2000.github</a><br>
+  <strong>Location:</strong><br> Toronto, Ontario</a><br>
   </p>
   </div>
   
@@ -28,11 +28,12 @@ title: ""
     <li>Worked under the guidance of <a href="https://yaydede.github.io" target="_blank" style="color: #2171B5; text-decoration: underline;">Dr. Aydede</a>, the principal investigator of the project.</li>
   </ul>
   
-  <h2 style="font-size: 20px; color: #2171B5;font-weight: bold; margin-top: 20px; border-bottom: 1px solid #F0F0F0; padding-bottom: 5px;">Sex Differences in Global Chess Performance (Honour Thesis)</h2>
+  <h2 style="font-size: 20px; color: #2171B5;font-weight: bold; margin-top: 20px; border-bottom: 1px solid #F0F0F0; padding-bottom: 5px;">The Youthful Gambit: Investigating the Gender Gap in Youth Chess Competitions (Honour Thesis)</h2>
   <ul style="font-size: 18px; color: #737373;">
-    <li>Built upon Angel Blanch's research to globally analyze sex differences in chess, emphasizing age and practice;</li>
-    <li>Extended the study geographically and over time, including players with Elo ratings above 1000 in international FIDE tournaments. Aimed to determine if Blanch's findings are consistent across different cultures and extended periods;</li>
-    <li>Supervised by <a href="https://ideas.repec.org/e/pdi151.html" target="_blank" style="color: #2171B5; text-decoration: underline;">Dr. Dilmagani</a> (SMU), contributing to the understanding of sex roles in chess expertise.</li>
+    <li>This thesis investigates gender disparities in competitive chess among players under 21, using FIDE Elo ratings and World Bank data to examine underlying trends.</li>
+    <li>It challenges the assumption that progressive generational attitudes alone can rectify gender imbalances, highlighting the influential role of societal and cultural forces, particularly in command economies.</li>
+    <li>Through a two-stage fixed-effects analysis, the study identifies a persistent gender-equality paradox with stagnating participation rates from 2015 to 2023, especially in countries recognized for gender equality, suggesting broader socio-economic and cultural determinants must be addressed for achieving gender parity in chess.</li>
+    <li>Supervised by <a href="https://ideas.repec.org/e/pdi151.html" target="_blank" style="color: #2171B5; text-decoration: underline;">Dr. Dilmagani</a>, contributing to the understanding of sex roles in chess expertise.</li>
   </ul>
   
   <h2 style="font-size: 20px; color: #2171B5;font-weight: bold; margin-top: 20px; border-bottom: 1px solid #F0F0F0; padding-bottom: 5px;">Accounting Academic Research Projects</h2>

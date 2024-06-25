@@ -8,14 +8,14 @@ output: html_document
   <!-- Sidebar content -->
   <div style="font-family: 'Georgia', serif; color: #737373; margin-right: 80px; margin-top: 30px; width: 20%;">
   <img src="Picture1.jpg" alt="Yi Xie" style="width: 100%; border-radius: 50%; border: 3px solid #F0F0F0; margin-bottom: 10px;"/>
-    <p style="font-family: 'Georgia', serif; color: #737373; text-align: center;font-size: 22px">
-    <strong>Yi Xie</strong><br>
+  <p style="font-family: 'Georgia', serif; color: #737373; text-align: center;font-size: 22px">
+  <strong>Yi Xie</strong><br>
   </p>
   <p style="font-size: 15px;">
-    <strong>LinkedIn:</strong><br> <a href="https://www.linkedin.com/in/yi-xie-21043a21b/" style="color: #2171B5; text-decoration: none;">Yi Xie</a><br>
-    <strong>Email:</strong><br> <a href="mailto:yi.xie2000@gmail.com" style="color: #2171B5; text-decoration: none;">yi.xie2000@gmail.com</a><br>
-    <strong>GitHub:</strong><br> <a href="https://github.com/yi-xie2000" target="_blank" style="color: #2171B5; text-decoration: none;">yi-xie2000.github</a><br>
-    <strong>Location:</strong><br> Halifax, Canada</a><br>
+  <strong>LinkedIn:</strong><br> <a href="https://www.linkedin.com/in/yixie2000/" style="color: #2171B5; text-decoration: none;">Yi Xie</a><br>
+  <strong>Email:</strong><br> <a href="mailto:yi.xie2000@gmail.com" style="color: #2171B5; text-decoration: none;">yi.xie2000@gmail.com</a><br>
+  <strong>GitHub:</strong><br> <a href="https://github.com/yi-xie2000" target="_blank" style="color: #2171B5; text-decoration: none;">yi-xie2000.github</a><br>
+  <strong>Location:</strong><br> Toronto, Ontario</a><br>
   </p>
   </div>
   
